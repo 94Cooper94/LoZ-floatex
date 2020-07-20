@@ -80,52 +80,60 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     letter-spacing: 5px;
+    height: 200px;
     display: inline-block;
-    /* overflow: auto; */
 }
 #magnesisExplained {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     letter-spacing: 5px;
+    height: 200px;
     display: inline-block;
-    /* overflow: auto; */
 }
 #cryonisExplained {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     letter-spacing: 5px;
+    height: 200px;
     display: inline-block;
-    /* overflow: auto; */
 }
 .float-left {
     float: left;
     margin-right: 25px;
+    max-width: 25%;
 }
 .float-right {
     float: right;
     margin-left: 25px;
+    max-width: 25%;
 }
 .stasisExplained {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    width: 90%;
 }
 .magnesisExplained {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    width: 90%;
 }
 .cryonisExplained {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    width: 90%;
 }
-.stasisInAction jpg {
-    max-height: 200px;
+/* .stasisInAction jpg {
+    max-width: 200px;
+    display: block;
 }
 .magnesisInAction jpg {
-    max-height: 200px;
+    max-width: 200px;
+    display: block;
 }
 .cryonisInAction jpg {
-    max-height: 200px;
-}
+    max-width: 200px;
+    display: block;
+} */
