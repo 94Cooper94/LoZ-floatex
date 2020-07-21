@@ -21,7 +21,7 @@ header {
     height: 420px; /* lol */
     margin-top: 20px;
     margin-bottom: 20px;
-    overflow: clip;
+    overflow: inherit;
 }
 /* only works with chrome/safari, not firefox :(  */
 h1 {
